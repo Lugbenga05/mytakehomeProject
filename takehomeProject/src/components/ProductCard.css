@@ -1,0 +1,25 @@
+.productCard-wrap{
+    border: 3px solid blue;
+    max-width: 350px;
+    margin: auto;
+    text-align: center;
+    
+}
+
+#productImage{
+    width: 90%;
+    height: 150px;
+    /* object-fit: cover; */
+}
+
+#productTitle{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#productDescription{
+    font-size: 14px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
